@@ -1,2 +1,2 @@
 # MemoryGame
-GitHub CLI & Git 
+committed using; GitHub CLI & Git Bash
