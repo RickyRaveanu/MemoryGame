@@ -37,7 +37,7 @@ let movesCount = 0,
   winCount = 0;
 const movesCounter = () => {
   movesCount += 1;
-  moves.innerHTML = `<span>Moves:</span>${movesCount}`;
+  moves.innerHTML = `<span>Moves:</span> ${movesCount}`;
 };
 
 const generateRandom = (size) => {
