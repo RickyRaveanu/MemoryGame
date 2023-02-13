@@ -65,8 +65,8 @@ a {
 }
 .card-container {
   position: relative;
-  width: 5em;
-  height: 5em;
+  width: 6.25em;
+  height: 6.25em;
   cursor: pointer;
 }
 .card-before,
@@ -133,8 +133,8 @@ a {
 @media screen and (max-height: 1024px) {
   .card-container {
     position: relative;
-    width: 4em;
-    height: 4em;
+    width: 4.5em;
+    height: 4.5em;
     cursor: pointer;
   }
   .btn {
