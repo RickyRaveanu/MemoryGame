@@ -130,7 +130,7 @@ a {
   font-family: "Fredoka", sans-serif;
   font-weight: 300;
 }
-@media screen and (max-height: 100px) {
+/* @media screen and (max-height: 1024px) {
   .card-container {
     position: relative;
     width: 4.5em;
@@ -148,4 +148,4 @@ a {
     height: 3rem;
     width: 7rem;
   }
-}
+} */
